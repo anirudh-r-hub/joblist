@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Java build files
+target/
+
+# Environment files
+.env
+
+# IDE related
+.idea/
+.vscode/
+.DS_Store
